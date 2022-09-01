@@ -2,7 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## How to run the Evensra UI
+
+Before running the React App, run the flask app under EvensraPy.
 
 In the project directory, you can run:
 
